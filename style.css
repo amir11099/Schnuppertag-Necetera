@@ -1,0 +1,62 @@
+.title {
+    color: #fadc31;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+}
+
+.Preise {
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.titel {
+    color: #fadc31;
+    justify-content: center
+}
+
+.Rabatt {
+    display: flex;
+    color: #fadc31;
+    justify-content: center
+}
+
+
+.title {
+    display: flex;
+    justify-content: center
+}
+
+.Button {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.Amir {background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: rgb(0, 30, 255);
+    align-items: flex-end;}
+   
+.lili {
+    color: #fadc31;
+}
+
+.Netcetera {display: flex;
+    color: #fadc31;
+    justify-content: center;
+}
+.loba{background-color: rgb(255, 255, 255);
+justify-content: center;
+flex-direction: column;}
+.Preis{display: flex;
+justify-content: center;}
+.en{background-color: rgb(193, 195, 208);background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.media-oueach.com%2FThumb%2F800x418%2F410965%2FNetcetera_AG_logo.jpg&tbnid=HF8lpqE0JF-9kM&imgrefurl=https%3A%2F%2Fwww.media-outreach.com%2Fnews%2Fswitzerland%2F2023%2F09%2F26%2F248804%2Fnetcetera-ag-tokenization-benefits-now-available-to-gpe-merchants-in-europe%2F&docid=iMzrJ8NkOeKYbM&w=800&h=418&q=netcetera&client=firefox-b-d);}
